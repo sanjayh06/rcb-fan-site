@@ -1,4 +1,4 @@
-### **🏏🏆 RCB Forever**  
+## **🏏🏆 RCB Forever**  
 
 🔥 A passionate fan-made website dedicated to **Royal Challengers Bengaluru (RCB)**! Stay updated with team details, player stats, and exclusive content. Built using **HTML, CSS, and JavaScript**, this site delivers an immersive experience for all RCB fans. 
 
