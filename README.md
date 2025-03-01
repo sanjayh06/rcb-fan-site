@@ -1,6 +1,6 @@
 ### **🏏🏆 RCB Forever**  
 
-🔥 A passionate fan-made website dedicated to **Royal Challengers Bangalore (RCB)**! Stay updated with team details, player stats, and exclusive content. Built using **HTML, CSS, and JavaScript**, this site delivers an immersive experience for all RCB fans. 
+🔥 A passionate fan-made website dedicated to **Royal Challengers Bengaluru (RCB)**! Stay updated with team details, player stats, and exclusive content. Built using **HTML, CSS, and JavaScript**, this site delivers an immersive experience for all RCB fans. 
 
 <img src="https://github.com/sanjayh06/rcb-fan-site/blob/main/images/project5.png" width="500">
 
